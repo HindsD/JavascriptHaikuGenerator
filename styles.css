@@ -1,0 +1,20 @@
+header{
+    font-family: sans-serif;
+    color: darkslateblue;
+}
+
+*{
+    text-align: center;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    font-family: sans-serif;
+    color: darkslateblue;
+    font-size: large;
+    font-weight: bold;
+}
